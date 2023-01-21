@@ -127,7 +127,7 @@ export class App extends Component {
           fontSize: 20,
           color: '#010101',
         }}>
-        <h1>Phonebook</h1>
+        <h1>Phonebooks</h1>
         {/* <ContactForm onSubmit={this.formSubmitHandler} />
 
         <h2>Contacts</h2>
